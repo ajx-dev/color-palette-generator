@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Test files
+test.mjs
+test2.mjs
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# OS junk
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
